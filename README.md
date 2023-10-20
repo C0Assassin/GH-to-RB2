@@ -14,3 +14,13 @@ Some of the fine details included are:
 * Metadata pulled directly from GH's internal files, song ids from GH are somewhat kept intact
 * Album art that share parity with existing RB songs are reused, so that they are consistent
 * Charts/Gem generally stay the same, with only minor tweaks being made to account for such things like open bass strumming
+
+Games included in this project:
+* Guitar Hero II
+* Guitar Hero III
+* Guitar Hero: World Tour
+* Guitar Hero 5
+* Guitar Hero: Metallica
+* Guitar Hero: Aerosmith
+* Guitar Hero: Van Halen
+* Guitar Hero: Warriors of Rock
