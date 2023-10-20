@@ -15,7 +15,7 @@ Some of the fine details included are:
 * Album art that share parity with existing RB songs are reused, so that they are consistent
 * Charts/Gem generally stay the same, with only minor tweaks being made to account for such things like open bass strumming
 
-*Games included in this project:*
+**Games included in this project:**
 * Guitar Hero II
 * Guitar Hero III
 * Guitar Hero: World Tour
