@@ -25,4 +25,4 @@ Some of the fine details included are:
 * Guitar Hero: Van Halen
 * Guitar Hero: Warriors of Rock
 
-(Songs that already appear in the Rock Band series will not appear in here)
+(Songs that already appear in the Rock Band/Festival series will not appear in here)
